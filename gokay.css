@@ -1,10 +1,10 @@
  
 html {
-  background: #1e1e1e;
+  background: #373636;
 }
 
 body {
-  color: #e59400;
+  color:  #f0aa06;
   width: 480px;
   margin: 50px auto;
 
@@ -23,21 +23,21 @@ body {
 }
 
 header {
-  color: #e59400;
+  color: #f0aa06;
 }
 
 a {
-  color: #090;
+  color: #f0aa06;
 }
 
 a:hover {
-  background: #e59400;
+  background: #f0aa06;
   color: #111;
   text-decoration: none;
 }
 
 header span.dim {
-  color: #090;
+  color: #f0aa06;
 }
 
 section strong {
@@ -45,12 +45,12 @@ section strong {
 }
 
 section.copyright {
-  color: #996300;
+  color: #4f4d4e;
 }
 
 div.cursor {
   display: inline-block;
-  background: #1e1e1e;
+  background: #f0aa06;
   margin-left: 1px;
 
   -webkit-animation: blink 2s linear 0s infinite;
@@ -62,31 +62,31 @@ div.cursor {
 @-webkit-keyframes blink {
   0%   { background: #0a0 }
   47%  { background: #090 }
-  50%  { background: #1e1e1e }
-  97%  { background: #1e1e1e }
-  100% { background: #1e1e1e }
+  50%  { background: #373636 }
+  97%  { background: #373636 }
+  100% { background: #373636 }
 }
 
 @-moz-keyframes blink {
   0%   { background: #0a0 }
   47%  { background: #090 }
-  50%  { background: #1e1e1e }
-  97%  { background: #1e1e1e }
-  100% { background: #1e1e1e }
+  50%  { background: #373636 }
+  97%  { background: #373636 }
+  100% { background: #373636 }
 }
 
 @-ms-keyframes blink {
   0%   { background: #0a0 }
   47%  { background: #090 }
-  50%  { background: #1e1e1e }
-  97%  { background: #1e1e1e }
-  100% { background: #1e1e1e }
+  50%  { background: #373636 }
+  97%  { background: #373636 }
+  100% { background: #373636 }
 }
 
 @-o-keyframes blink {
   0%   { background: #0a0 }
   47%  { background: #090 }
-  50%  { background: #1e1e1e }
-  97%  { background: #1e1e1e }
-  100% { background: #1e1e1e }
+  50%  { background: #373636 }
+  97%  { background: #373636 }
+  100% { background: #373636 }
 }
